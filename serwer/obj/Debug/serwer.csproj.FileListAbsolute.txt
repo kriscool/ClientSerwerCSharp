@@ -1,0 +1,5 @@
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\serwer\bin\Debug\serwer.exe.config
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\serwer\bin\Debug\serwer.exe
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\serwer\bin\Debug\serwer.pdb
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\serwer\obj\Debug\serwer.exe
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\serwer\obj\Debug\serwer.pdb

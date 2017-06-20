@@ -1,0 +1,8 @@
+c:\users\kriscool\documents\visual studio 2015\Projects\clientserwer\clientserwer\bin\Debug\clientserwer.exe.config
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\clientserwer\obj\Debug\clientserwer.csprojResolveAssemblyReference.cache
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\clientserwer\obj\Debug\clientserwer.Properties.Resources.resources
+C:\Users\kriscool\Documents\Visual Studio 2015\Projects\clientserwer\clientserwer\obj\Debug\clientserwer.csproj.GenerateResource.Cache
+C:\Users\kriscool\documents\visual studio 2015\Projects\clientserwer\clientserwer\bin\Debug\clientserwer.exe
+C:\Users\kriscool\documents\visual studio 2015\Projects\clientserwer\clientserwer\bin\Debug\clientserwer.pdb
+C:\Users\kriscool\documents\visual studio 2015\Projects\clientserwer\clientserwer\obj\Debug\clientserwer.exe
+C:\Users\kriscool\documents\visual studio 2015\Projects\clientserwer\clientserwer\obj\Debug\clientserwer.pdb
